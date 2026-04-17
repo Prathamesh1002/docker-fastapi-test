@@ -4,6 +4,14 @@ __pycache__/
 *$py.class
 **/*.json
 
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.env
+.git
+
+
 # C extensions
 *.so
 
